@@ -19,7 +19,7 @@ Just open index.html in any browser. No install, no dependencies.
 
 online:
 
-https://github.com/your-username/qr-generator
+https://synn0-gith.github.io/QR-Code-Generator-by-Synn0_.
 
 
 Stack
